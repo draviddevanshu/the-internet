@@ -81,3 +81,5 @@ Load the page you want to see in your browser:
 ## See Also
 
 - A Docker Image of the-internet ([link](https://hub.docker.com/r/gprestes/the-internet/))
+
+[![Run on Repl.it](https://repl.it/badge/github/draviddevanshu/the-internet)](https://repl.it/github/draviddevanshu/the-internet)
